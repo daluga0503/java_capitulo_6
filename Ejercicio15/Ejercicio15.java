@@ -2,6 +2,7 @@ package java_capitulo_6.java_capitulo_6.Ejercicio15;
 
 public class Ejercicio15 {
     public static void main(String[] args) {
+        //Para saber la longitud de la melodia
         int melodia = 4*(int)(Math.random()*7); 
         String nota  = " ";
         String primera = " ";
